@@ -1,6 +1,6 @@
-# MetaMask Snaps
+# dawahnation Snaps
 
-Extend the functionality of MetaMask using
+Extend the functionality of Dawah Nation using
 [MetaMask Snaps](https://metamask.io/snaps/).
 
 ## Getting started
